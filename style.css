@@ -251,7 +251,12 @@ a:hover {
 .l-bloc p a:hover {
     color: rgba(0, 0, 0, 1);
 }
-
+.decription,.citation,.write-citation{
+    color: rgb(42, 42, 42);
+}
+.citation{
+    font-style: italic;
+}
 .l-bloc .navbar-toggle .icon-bar {
     color: rgba(0, 0, 0, .6);
 }
@@ -780,7 +785,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: rgb(42, 42, 42)!important;
 }
 
 .btn-atomic-tangerine:hover {
