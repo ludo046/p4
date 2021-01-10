@@ -823,11 +823,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.pnj");
+    background-image: url("img/la-chouette-agence-banniere.png");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.pnj");
+    background-image: url("img/image-de-presentation.png");
 }
 
 @media (max-width: 1024px) {
