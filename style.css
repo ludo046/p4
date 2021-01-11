@@ -644,8 +644,9 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-h1,
-h2,
+h1{
+    color: white;
+}
 h3,
 h4,
 h5,
@@ -727,10 +728,6 @@ h3 {
     box-shadow: 0px 0px 0px #000000;
 }
 
-h1 {
-    color: #333333!important;
-}
-
 h4 {
     color: #333333!important;
 }
@@ -741,7 +738,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #000!important;
 }
 
 .portfolio-thumb {
@@ -780,9 +777,11 @@ h4 {
 }
 
 .tc-white {
-    color: #c27956!important;
+    color: #2A2A2A!important;
 }
-
+.whiteh2{
+    color: #FFF;
+}
 .btn-atomic-tangerine {
     background: #F3976C;
     color: rgb(42, 42, 42)!important;
@@ -794,7 +793,7 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: #2A2A2A!important;
 }
 
 .ltc-white:hover {
