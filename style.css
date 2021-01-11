@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: rgba(42, 42, 42, .7);
 }
 
 .d-bloc button:hover {
@@ -123,7 +123,6 @@ a:hover {
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
 .d-bloc a .icon-sm,
-.d-bloc a .icon-md,
 .d-bloc a .icon-lg,
 .d-bloc a .icon-xl,
 .d-bloc h1 a,
@@ -135,7 +134,9 @@ a:hover {
 .d-bloc p a {
     color: rgba(255, 255, 255, .6);
 }
-
+.description{
+    color: rgb(42,42,42);
+}
 .d-bloc .a-btn:hover,
 .d-bloc .navbar a:hover,
 .d-bloc .navbar-brand:hover,
@@ -482,6 +483,7 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+    color: rgb(42, 42, 42);
 }
 
 .icon-lg {
@@ -646,6 +648,13 @@ a[data-lightbox]:hover img {
 
 h1{
     color: white;
+    font-weight: "helvetica";
+    font-weight: 400;
+}
+a{
+    color: black;
+    font-weight: "helvetica";
+    font-weight: 400;
 }
 h3,
 h4,
@@ -653,8 +662,7 @@ h5,
 h6,
 p,
 label,
-.btn,
-a {
+.btn{
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
@@ -753,7 +761,7 @@ h4 {
 .avatar {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
 }
-
+.decription
 .black-background {
     background-color: rgba(165, 147, 99, 0.7);
     padding: 40px 40px 40px 40px;
@@ -791,7 +799,9 @@ h4 {
     background: #c27956!important;
     color: #FFFFFF!important;
 }
-
+.lien{
+    color: black;
+}
 .ltc-white {
     color: #2A2A2A!important;
 }
