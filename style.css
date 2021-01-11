@@ -665,7 +665,7 @@ label,
 .btn{
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: rgb(42, 42, 42)!important;
 }
 
 .container {
@@ -799,7 +799,7 @@ h4 {
     background: #c27956!important;
     color: #FFFFFF!important;
 }
-.lien{
+.liens{
     color: black;
 }
 .ltc-white {
